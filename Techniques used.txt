@@ -1,0 +1,5 @@
+In this model car price(continuous value) is predicted using random-forest-regressor
+-heat map
+-hyperperameters selection with ExtraTreesRegressor(which has the perameters) 
+-RandomSearchCv used to choose the best value of perameter
+-randomforest used as regressor to predict the value 
